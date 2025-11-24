@@ -33,7 +33,7 @@ The project uses a RAG pipeline with the following components:
 ### Clone the repository:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/aasthamlhtra/YouTubeChatBot.git
 cd youtube-rag-assistant
 ```
 
