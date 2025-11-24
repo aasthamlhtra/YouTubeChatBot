@@ -34,7 +34,7 @@ The project uses a RAG pipeline with the following components:
 
 ```bash
 git clone https://github.com/aasthamlhtra/YouTubeChatBot.git
-cd youtube-rag-assistant
+cd YouTubeChatBot
 ```
 
 ### Create a virtual environment:
@@ -75,7 +75,7 @@ Then:
 ## Project Structure
 
 ```
-youtube-rag-assistant/
+YouTubeChatBot/
 │
 ├── chatbot_backend.py     # Core RAG logic and pipeline
 ├── chatbot_ui.py          # Streamlit user interface
